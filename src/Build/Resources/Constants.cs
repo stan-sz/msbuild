@@ -44,6 +44,8 @@ namespace Microsoft.Build.Internal
         internal const string overrideTasksPath = "MSBuildOverrideTasksPath";
         internal const string defaultOverrideToolsVersion = "DefaultOverrideToolsVersion";
         internal const string startupDirectory = "MSBuildStartupDirectory";
+        internal const string startTime = "MSBuildStartTime";
+        internal const string projectStartTime = "MSBuildProjectStartTime";
         internal const string buildNodeCount = "MSBuildNodeCount";
         internal const string lastTaskResult = "MSBuildLastTaskResult";
         internal const string extensionsPathSuffix = "MSBuild";
